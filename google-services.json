@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "692144165649",
+    "project_id": "eshop-multivendor",
+    "storage_bucket": "eshop-multivendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692144165649:android:74b6811235835a9ba0b2b0",
+        "android_client_info": {
+          "package_name": "com.deliveryboy.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692144165649-av5efoa8rsfocm9488sfnv2q5cg9sub5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliveryboy.multivendor",
+            "certificate_hash": "46c77d01aca6dc6e2e1f42ba6a9c576a2dcd08d4"
+          }
+        },
+        {
+          "client_id": "692144165649-n5b7h7u5gaie9e5tptkj0ohq39grphg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7F5pGTk1Yqwj5_ayYsVBcFtVyx29C0MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692144165649-n5b7h7u5gaie9e5tptkj0ohq39grphg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692144165649-loibdjofjnjqmge5tl5m98ljc7u0do0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deliveryboy.multivendor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692144165649:android:23b249b4239125b3a0b2b0",
+        "android_client_info": {
+          "package_name": "eshop.admin.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692144165649-n5b7h7u5gaie9e5tptkj0ohq39grphg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7F5pGTk1Yqwj5_ayYsVBcFtVyx29C0MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692144165649-n5b7h7u5gaie9e5tptkj0ohq39grphg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692144165649-loibdjofjnjqmge5tl5m98ljc7u0do0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deliveryboy.multivendor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692144165649:android:2ddf78d09ad198cda0b2b0",
+        "android_client_info": {
+          "package_name": "com.eatozfood.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692144165649-n5b7h7u5gaie9e5tptkj0ohq39grphg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7F5pGTk1Yqwj5_ayYsVBcFtVyx29C0MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692144165649-n5b7h7u5gaie9e5tptkj0ohq39grphg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692144165649-loibdjofjnjqmge5tl5m98ljc7u0do0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deliveryboy.multivendor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692144165649:android:f38e82cfc17ecabea0b2b0",
+        "android_client_info": {
+          "package_name": "wrteam.eshop.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692144165649-n5b7h7u5gaie9e5tptkj0ohq39grphg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7F5pGTk1Yqwj5_ayYsVBcFtVyx29C0MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692144165649-n5b7h7u5gaie9e5tptkj0ohq39grphg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692144165649-loibdjofjnjqmge5tl5m98ljc7u0do0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deliveryboy.multivendor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

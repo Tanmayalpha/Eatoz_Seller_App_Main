@@ -1,0 +1,6 @@
+framework module sms_autofill {
+  umbrella header "sms_autofill-umbrella.h"
+
+  export *
+  module * { export * }
+}
